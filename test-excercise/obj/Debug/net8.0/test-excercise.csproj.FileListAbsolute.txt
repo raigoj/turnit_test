@@ -1,0 +1,15 @@
+/home/raigo/Code/kandideerimiseks/turnit_test/test-excercise/bin/Debug/net8.0/test-excercise
+/home/raigo/Code/kandideerimiseks/turnit_test/test-excercise/bin/Debug/net8.0/test-excercise.deps.json
+/home/raigo/Code/kandideerimiseks/turnit_test/test-excercise/bin/Debug/net8.0/test-excercise.runtimeconfig.json
+/home/raigo/Code/kandideerimiseks/turnit_test/test-excercise/bin/Debug/net8.0/test-excercise.dll
+/home/raigo/Code/kandideerimiseks/turnit_test/test-excercise/bin/Debug/net8.0/test-excercise.pdb
+/home/raigo/Code/kandideerimiseks/turnit_test/test-excercise/obj/Debug/net8.0/test-excercise.GeneratedMSBuildEditorConfig.editorconfig
+/home/raigo/Code/kandideerimiseks/turnit_test/test-excercise/obj/Debug/net8.0/test-excercise.AssemblyInfoInputs.cache
+/home/raigo/Code/kandideerimiseks/turnit_test/test-excercise/obj/Debug/net8.0/test-excercise.AssemblyInfo.cs
+/home/raigo/Code/kandideerimiseks/turnit_test/test-excercise/obj/Debug/net8.0/test-excercise.csproj.CoreCompileInputs.cache
+/home/raigo/Code/kandideerimiseks/turnit_test/test-excercise/obj/Debug/net8.0/test-excercise.sourcelink.json
+/home/raigo/Code/kandideerimiseks/turnit_test/test-excercise/obj/Debug/net8.0/test-excercise.dll
+/home/raigo/Code/kandideerimiseks/turnit_test/test-excercise/obj/Debug/net8.0/refint/test-excercise.dll
+/home/raigo/Code/kandideerimiseks/turnit_test/test-excercise/obj/Debug/net8.0/test-excercise.pdb
+/home/raigo/Code/kandideerimiseks/turnit_test/test-excercise/obj/Debug/net8.0/test-excercise.genruntimeconfig.cache
+/home/raigo/Code/kandideerimiseks/turnit_test/test-excercise/obj/Debug/net8.0/ref/test-excercise.dll

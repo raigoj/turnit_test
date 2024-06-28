@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rnfjIwpc5VRLH0PQ0YQazYuhT40HN4MOjQZ975tq8FuyAQMcrZu65VQtb0cjDDprXiLJ2zgMEZCWpx+Yz7Pdng==",
+  "success": true,
+  "projectFilePath": "/home/raigo/Code/kandideerimiseks/turnit_test/test-excercise/test-excercise.csproj",
+  "expectedPackageFiles": [
+    "/home/raigo/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.6/microsoft.aspnetcore.app.ref.8.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}
